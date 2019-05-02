@@ -28,10 +28,6 @@ namespace Giraffe
             Console.WriteLine(pluralNoun + " are blue");
             Console.Write("I Love " + celebrity);
 
-          //  "Outputs:
-          // Rose are red
-          // violetes are blue
-          // I like Angelina Jolie and that one person from that two and a half men show... uhhh i forgot her name but she was married to Alan.."
 
             Console.ReadLine();
         }
